@@ -5,7 +5,7 @@ This app displays lists of vocabulary words for the user to learn the Miwok lang
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 Pre-requisites
---------------
+-------------
 
 - Android SDK v23
 - Android Build Tools v23.0.2
